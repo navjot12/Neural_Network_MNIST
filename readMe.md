@@ -1,6 +1,6 @@
 #Neural Networks on MNIST Data
 
-This python script applies a neural network consisting of 3 layers- 
+This python script uses Keras based on Theano backend to train for categorization of MNIST data by application of a neural network consisting of 3 layers- 
 	1. Input layer accepting digits of MNIST dataset, having shape (784,).
 	2. Hidden layer with 350 neurons.
 	3. Output layer with 10 neurons - representing the 10 output classes (digits) for MNIST dataset.
