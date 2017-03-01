@@ -1,4 +1,4 @@
-ing Theano backend.
+Using Theano backend.
 (42000, 785)
 (15750, 784) (15750, 10)
 (5250, 784) (5250, 10)
